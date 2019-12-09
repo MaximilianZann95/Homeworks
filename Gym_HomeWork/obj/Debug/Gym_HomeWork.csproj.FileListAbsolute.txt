@@ -1,0 +1,7 @@
+C:\Users\TSS\source\repos\Gym_HomeWork\Gym_HomeWork\obj\Debug\Gym_HomeWork.csprojAssemblyReference.cache
+C:\Users\TSS\source\repos\Gym_HomeWork\Gym_HomeWork\obj\Debug\Gym_HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\TSS\source\repos\Gym_HomeWork\Gym_HomeWork\bin\Debug\Gym_HomeWork.exe.config
+C:\Users\TSS\source\repos\Gym_HomeWork\Gym_HomeWork\bin\Debug\Gym_HomeWork.exe
+C:\Users\TSS\source\repos\Gym_HomeWork\Gym_HomeWork\bin\Debug\Gym_HomeWork.pdb
+C:\Users\TSS\source\repos\Gym_HomeWork\Gym_HomeWork\obj\Debug\Gym_HomeWork.exe
+C:\Users\TSS\source\repos\Gym_HomeWork\Gym_HomeWork\obj\Debug\Gym_HomeWork.pdb
